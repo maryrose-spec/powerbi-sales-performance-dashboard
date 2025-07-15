@@ -35,3 +35,25 @@ To track and analyze company-wide sales performance and generate insights that h
   - Amount achieved vs. sales target (518% above target!)
   - Boxes shipped vs. expected quantity
 - **Salesperson Filter**: Allows performance breakdown by sales agent.
+  
+---
+
+## 💡 Key Insights
+
+- Reached **over ₦6.1 million** in sales, surpassing the ₦1 million goal by **518%**!
+- Highest box shipment recorded in **Australia** (18.4%)
+- Strong upward sales trend observed between **May to July**
+- Products like **Smooth Silky Salty** and **50% Dark Bites** contributed most to revenue
+
+---
+
+## 📬 Contact
+
+Let’s connect or collaborate!
+
+- 📧 ujunwarose1995@email.com  
+- 🌐 [LinkedIn]https://www.linkedin.com/in/eyamaryroseujunwa
+
+---
+
+
