@@ -77,8 +77,8 @@ To monitor and analyze company-wide chocolate sales performance and generate act
 ## 📩 Contact
 
 **Ujunwa Maryrose Eya**  
-📧 Email: [your-email@example.com]  
-🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+📧 Email:ujunwarose1995@gmail.com  
+🔗 LinkedIn:https://www.linkedin.com/in/eyamaryroseujunwa
+🐙 GitHub:https://github.com/maryrose-spec
 
 ---
