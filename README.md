@@ -1,59 +1,84 @@
-#  Sales Performance Dashboard (Power BI)
+# Choco Sales Dashboard (Power BI)
 
-Welcome to my Sales Performance Dashboard project!  
-In this project, I used **Power BI** to design a dynamic sales performance dashboard that provides a clear overview of key sales metrics such as total revenue, box shipments, country-wise performance, monthly trends, and sales goals.
-
----
-
-##  Project Objective
-
-To track and analyze company-wide sales performance and generate insights that help:
-- Understand total sales vs. target expectations
-- Monitor regional sales contributions
-- Identify top-performing products
-- Evaluate monthly sales trends
-- Empower sales decision-making
+This project showcases a dynamic and interactive sales performance dashboard created using **Microsoft Power BI**. It visualizes and analyzes the sales data for a chocolate product, providing insights into sales performance by region, salesperson, and over time.
 
 ---
 
-##  Tools & Technologies
+## 📊 Dashboard Overview
 
-- **Microsoft Power BI** – Dashboard design and interactive visuals  
-- **Excel** – Data preprocessing and cleaning  
-- **Power Query** – Data transformation  
-- **DAX (Data Analysis Expressions)** – Custom KPIs and calculations
+![Choco Sales Dashboard](choco%20sales.png)
 
 ---
 
-##  Key Dashboard Features
+## 📊 Dashboard Features
 
-- **Total Amount & Boxes Shipped**: Displays overall figures at a glance.
-- **Sales by Product**: Highlights best-selling items.
-- **Country-wise Performance**: Pie chart visualizing regional contribution.
-- **Monthly Sales Trend**: Line chart showing revenue flow across months.
-- **Goal Tracking**:
-  - Amount achieved vs. sales target (518% above target!)
-  - Boxes shipped vs. expected quantity
-- **Salesperson Filter**: Allows performance breakdown by sales agent.
-  
+- **Total Sales Revenue**  
+  Displays a KPI card with total revenue generated (6M).
+
+- **Total Boxes Shipped**  
+  A KPI card showing the total number of chocolate boxes shipped (177K).
+
+- **Progress Toward Sales Goals**  
+  A visual comparison of actual vs. target goals (6.18M out of 10M) with percentage completion.
+
+- **Boxes Shipped by Country**  
+  A pie chart breaking down the volume of shipments across six countries:  
+  - Australia, Canada, UK, India, USA, and New Zealand.
+
+- **Boxes Shipped by Salesperson**  
+  A horizontal bar chart showing top-performing salespersons:
+  - Oby Sorrel
+  - Roddy Speechley
+  - Van Tuxwell
+  - Rafaelta Blaksland
+  - Wilone O’Kelt
+
+- **Monthly Sales Trend**  
+  A line chart showing revenue trends from January to August.
+
+- **Interactive Filters**  
+  Slicer to filter data by salesperson for granular analysis.
+
 ---
 
-## 💡 Key Insights
+## 🎯 Project Objective
 
-- Reached **over ₦6.1 million** in sales, surpassing the ₦1 million goal by **518%**!
-- Highest box shipment recorded in **Australia** (18.4%)
-- Strong upward sales trend observed between **May to July**
-- Products like **Smooth Silky Salty** and **50% Dark Bites** contributed most to revenue
-
----
-
-## 📬 Contact
-
-Let’s connect or collaborate!
-
-- 📧 ujunwarose1995@email.com  
-- 🌐 [LinkedIn]https://www.linkedin.com/in/eyamaryroseujunwa
+To monitor and analyze company-wide chocolate sales performance and generate actionable insights that help:
+- Understand total sales vs. targets.
+- Monitor regional and individual sales performance.
+- Track monthly sales trends for better planning and forecasting.
 
 ---
 
+## 🛠️ Tools Used
 
+- Microsoft Power BI  
+- DAX for calculated fields  
+- Interactive visuals: KPI Cards, Pie Charts, Bar Charts, Line Graphs, and Slicers
+
+---
+
+## 📁 Files
+
+- `choco sales.pbix` – Power BI report file (not included here)
+- `choco sales.png` – Dashboard screenshot (see above)
+
+---
+
+## 📌 Key Insights
+
+- **Top Shipping Country**: Canada (33K boxes, 18.44%)
+- **Top Salesperson**: Oby Sorrel (~9.5K boxes)
+- **Best Revenue Month**: January (0.9M)
+- **Underperforming Goal**: Sales amount achieved is 38.16% below the 10M target
+
+---
+
+## 📩 Contact
+
+**Ujunwa Maryrose Eya**  
+📧 Email: [your-email@example.com]  
+🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+
+---
